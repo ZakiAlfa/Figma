@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Figma</string>
+    <string name="desc_kimia">Deskripsi gambar kimia</string>
+    <string name="desc_fisika">Deskripsi gambar fisika</string>
+    <string name="desc_mtk">Deskripsi gambar matematika</string>
+    <string name="desc_sejarah">Deskripsi gambar sejarah</string>
+    <string name="desc_tik">Deskripsi gambar TIK</string>
+</resources>
